@@ -1,0 +1,7 @@
+steps:
+  integrationArtifactUpload:
+    cpiApiServiceKeyCredentialsId: roverpocServiceKeyCred
+    integrationFlowId: flow4
+    integrationFlowName: flow4
+    packageId: CICD
+    filePath: test1.zip
